@@ -1,0 +1,2 @@
+This is a change in branch1
+New changes in branch1
